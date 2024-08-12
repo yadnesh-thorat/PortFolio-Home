@@ -44,7 +44,7 @@ To view the portfolio locally, you can follow these steps:
 Feel free to get in touch if you have any questions or would like to collaborate on a project.
 
 - **Email:** yadneshwarthorat@gmail.com
-- **LinkedIn:** [My LinkedIn Profile](www.linkedin.com/in/yadneshwar-thorat-5581a3259)
-- **GitHub:** [My GitHub Profile]((https://github.com/yadnesh-thorat))
+- **LinkedIn:** (www.linkedin.com/in/yadneshwar-thorat-5581a3259)
+- **GitHub:** (https://github.com/yadnesh-thorat)
 
 Thank you for visiting my portfolio!
