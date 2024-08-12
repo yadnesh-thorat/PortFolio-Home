@@ -37,7 +37,8 @@ To view the portfolio locally, you can follow these steps:
 
 ## Screenshots
 
-![Portfolio Screenshot]([link-to-screenshot-image](https://yadnesh-thorat.github.io/PortFolio-Home/))
+![image](https://github.com/user-attachments/assets/54240323-a22d-4db9-9b2b-45af1d556cd3)
+
 
 ## Contact
 
